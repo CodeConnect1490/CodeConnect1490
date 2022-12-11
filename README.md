@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CodeConnect1490
+- 👀 I’m interested in learning and developing projects with Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python
