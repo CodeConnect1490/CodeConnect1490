@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CodeConnect1490
-- 👀 I’m interested in learning and developing projects with Python, JavaScripts
+- 👀 I’m interested in learning and developing projects with Python, JavaScripts, HTML, CSS
+- 💞️ I’m looking to collaborate on projects that makes the world a better place!
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
